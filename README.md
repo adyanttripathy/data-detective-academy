@@ -2,6 +2,10 @@
 
 **A data-analytics learning game for all ages — learn to read data the fun way.**
 
+### ▶️ [PLAY NOW — one click, right in your browser](https://adyanttripathy.github.io/data-detective-academy/)
+
+*(If the link 404s, GitHub Pages isn't enabled yet — see [Run it](#-getting-started) below.)*
+
 Players take on the role of a rookie detective at the Data Detective Academy and crack **8 randomly generated mini-cases** per playthrough. Every case is a hands-on puzzle built on a real analytics skill, and every answer — right or wrong — ends with a **"Data Bite"** that explains the concept in plain language.
 
 ---
